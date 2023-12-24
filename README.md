@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/search?q=data+science+banner&tbm=isch&ved=2ahUKEwjj5vyLraiDAxW4WaQEHeJ-ARgQ2-cCegQIABAA&oq=data+science+b&gs_lcp=CgNpbWcQARgCMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoHCAAQgAQQGFCcBljpHWDVMWgAcAB4AIABU4gBiQWSAQIxMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=XkmIZeO_ArizkdUP4v2FwAE&bih=738&biw=1536)
+
 <h1 align="center">Hi 👋, I'm Seyi Samuel Falope</h1>
 <h3 align="center">Passionate about advanced analytics, machine learning and Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=593436773&sxsrf=AM9HkKkrYNbM3UroX4qEpju-wDHVveuAdg:1703430368879&q=data+science+animation&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi7lKXQrKiDAxX1Q0EAHcGNC4wQ0pQJegQIDRAB&biw=1536&bih=738&dpr=1.25#imgrc=vbHw7pAGW_OHqM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyifalope&label=Profile%20views&color=0e75b6&style=flat" alt="seyifalope" /> </p>
 
